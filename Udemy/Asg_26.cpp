@@ -13,10 +13,6 @@ void Asg_26() {
 	//std::cout << " ref_x1= " << &ref_x1 << std::endl;
 	//std::cout << " x= " << &x << std::endl;
 
-
-
-
-
 	x = 150;
 	std::cout << "ref_x2= " << ref_x2 << std::endl;
 	std::cout << " x= " << x << std::endl;

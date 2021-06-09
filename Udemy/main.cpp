@@ -6,6 +6,8 @@ int main() {
 	int result = 1;
 	int num;
 
+#ifdef DEBUG
+
 	num = 5;
 	Factorial_ptr(&num, &result_ptr);
 	std::cout << "Factorial_Ptr= "<< result_ptr << std::endl;
@@ -13,7 +15,7 @@ int main() {
 
 	Factorial_ref(num, result); // 5 , 1
 	std::cout << "Factorial_Ref= " << result << std::endl;
-
+#endif // DEBUG
 
 	Asg_26();
 
