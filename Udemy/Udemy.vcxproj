@@ -139,13 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Asg_26.cpp" />
-    <ClCompile Include="factorial.cpp" />
+    <ClCompile Include="ptr_ref_2.cpp" />
+    <ClCompile Include="ptr_ref_1.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Asg_26.h" />
-    <ClInclude Include="factorial.h" />
+    <ClInclude Include="ptr_ref_2.h" />
+    <ClInclude Include="ptr_ref_1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

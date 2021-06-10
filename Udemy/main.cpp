@@ -1,11 +1,11 @@
 #include<iostream>
-#include"factorial.h"
-#include"Asg_26.h"
+#include"ptr_ref_1.h"
+#include"ptr_ref_2.h"
 int main() {
 	int result_ptr= 1;
 	int result = 1;
 	int num;
-
+	std::cout << "Welcome to Cpp tutorials"  << std::endl;
 #ifdef DEBUG
 
 	num = 5;
@@ -17,7 +17,7 @@ int main() {
 	std::cout << "Factorial_Ref= " << result << std::endl;
 #endif // DEBUG
 
-	Asg_26();
+	Ptr_Ref();
 
 	return 0;
 

@@ -1,6 +1,6 @@
 #include<iostream>
 
-void Asg_26() {
+void Ptr_Ref() {
 
 	//Try to modify x1 & x2 and see the compilation output
 	int x = 5;

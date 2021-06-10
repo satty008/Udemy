@@ -18,18 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="factorial.cpp">
+    <ClCompile Include="ptr_ref_1.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="Asg_26.cpp">
+    <ClCompile Include="ptr_ref_2.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="factorial.h">
+    <ClInclude Include="ptr_ref_1.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="Asg_26.h">
+    <ClInclude Include="ptr_ref_2.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
